@@ -1,3 +1,6 @@
+# Logs
+npm-debug.log
+
 # Dev config
 .jshintrc
 

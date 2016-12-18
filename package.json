@@ -1,0 +1,33 @@
+{
+    "name": "deep-gems",
+    "version": "1.0.0",
+    "description": "Blog website",
+    "main": "server.js",
+    "scripts": {
+        "test": "test"
+    },
+    "engines": {
+        "node" : ">=7.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MajorMaad/Deep-Gems.git"
+    },
+    "keywords": [
+        "blog",
+        "house",
+        "music",
+        "website",
+        "deep",
+        "gems"
+    ],
+    "author": "Quentin Audinot <quentin.audinot@gmail.com> (https://quentinaudinot.herokuapp.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MajorMaad/Deep-Gems/issues"
+    },
+    "homepage": "https://github.com/MajorMaad/Deep-Gems#readme",
+    "dependencies": {
+        "express": "^4.14.0"
+    }
+}

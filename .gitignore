@@ -1,0 +1,5 @@
+# Dev config
+.jshintrc
+
+# Node modules
+node_modules

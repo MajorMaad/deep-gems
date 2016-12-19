@@ -5,7 +5,7 @@
 .jshintrc
 
 # compiled output
-/dist
+/public/dist
 /tmp
 
 # dependencies
